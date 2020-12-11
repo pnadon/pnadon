@@ -3,8 +3,7 @@
 on June 2020 I graduated with a BSc. from the University of Alberta, with majors in Mathematics and Physics and Computing Science.
 
 ## Links
-- ["hub" for my various projects](https://www.nadon.io/)
-- [academic / career portfolio](https://acad.nadon.io/)
+- [main site](https://www.nadon.io/)
 - [LinkedIn profile](https://www.linkedin.com/in/pnadon/)
 
 ## About me
@@ -15,18 +14,5 @@ Our submission to that Hackathon eventually led to the city contracting us to bu
 Since then, I have also been contracted by the capital of my province to build a similar tool, worked 2 summers as an undergraduate researcher building a fuel cell model in Julia, designed and deployed a website for a local non-profit which lets them more easily view and manage shifts, [and more](https://acad.nadon.io/)!
 
 ## Current Projects
-My current projects mostly involve either the MERN stack, or writing in / contributing to Rust. I learned a lot from my first foray into contributing to open source ([issue](https://github.com/rust-lang/rust/issues/71193), [PR 1](https://github.com/rust-lang/rust/pull/74664#issuecomment-663989162), [PR 2](https://github.com/rust-lang/miri/pull/1487#issuecomment-664658597)), and am now looking to contribute to Rust more consistently.
-<!--
-**pnadon/pnadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my side projects at the moment involve writing small CLI tools (Tetris, GBA emulator) or web services (such as a Discord bot), usually in Rust.
+My professional work has also led me to become interested in infrastructure-related tools such as Docker and Terraform and thus I have started to incorporate these technologies into my projects.
