@@ -3,8 +3,8 @@
 on June 2020 I graduated with a BSc. from the University of Alberta, with majors in Mathematics and Physics and Computing Science.
 
 ## Links
-- [main site](https://www.nadon.io/)
-- [LinkedIn profile](https://www.linkedin.com/in/pnadon/)
+- [Site](https://www.nadon.io/)
+- [LinkedIn](https://www.linkedin.com/in/pnadon/)
 
 ## About me
 I only started taking Computing Science courses in my 3rd year, but shortly after the Winter semester of that year I attended a Hackathon with friends which was hosted by a local city. 
