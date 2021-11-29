@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnadon)](https://github.com/anuraghazra/github-readme-stats)
-
 # Hello 👋
 
 on June 2020 I graduated with a BSc. from the University of Alberta, with majors in Mathematics and Physics and Computing Science.
