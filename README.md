@@ -1,12 +1,10 @@
-# Hello 👋
+[Site](https://www.nadon.io/)
 
-on June 2020 I graduated with a BSc. from the University of Alberta, with majors in Mathematics and Physics and Computing Science.
-
-## Links
-- [Site](https://www.nadon.io/)
-- [LinkedIn](https://www.linkedin.com/in/pnadon/)
+[LinkedIn](https://www.linkedin.com/in/pnadon/)
 
 ## About me
+On June 2020 I graduated with a BSc. from the University of Alberta, with majors in Mathematics and Physics and Computing Science.
+
 I only started taking Computing Science courses in my 3rd year, but shortly after the Winter semester of that year I attended a Hackathon with friends which was hosted by a local city. Our submission was a tool that let commuters estimate the impact that a change in residential speed limits would have on commute time.
 
 The hackathon led ot the city of Calgary contracting us to build a professional version, and that amazing experience was what motivated me to add Computing Science to my existing Mathematics and Physics majors, and pursue the career of a Software Engineer.
